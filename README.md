@@ -9,3 +9,5 @@
 이미지 출처: https://academic.oup.com/bioinformatics/article/37/10/1444/5988714
 
 코드 출처: https://www.kaggle.com/code/msandrk/autoencoders-for-microbiome-prediction/notebook
+
+기존 머신러닝을 통한 분류를 딥러닝으로 교체하여 성능 향상 연구를 진행하고 있습니다.
